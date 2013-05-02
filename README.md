@@ -13,9 +13,9 @@ The Contact Recaster takes mobility traces (in One format) from real experiments
 
 The Contact Recaster allows for a given mobility trace to change 
 
-    Transmission range, is defined as the maximum distance at which a node can see other nodes 
-    Beaconning-period , is defined as the time frequency to use for checking if nodes are in contacts with each other 
-    Loss-tolerance    , is defined as the maximum lost beacons allowed
+    < Transmission range > is defined as the maximum distance at which a node can see other nodes 
+    < Beaconning-period  > is defined as the time frequency to use for checking if nodes are in contacts with each other 
+    <   Loss-tolerance   > is defined as the maximum lost beacons allowed
 
 Building
 ------------
