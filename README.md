@@ -1,10 +1,10 @@
-ContactRecaster
+Contact Recaster
 ===============
 
 Introduction
 ------------
 
-We are realising this easy to use code for any user who does not want to REdo mobility experiments but still have realiable mobility traces 
+We are releasing this easy to use code for any user who does not want to REdo mobility experiments to change mobility parameters (transmission range, beaconing period, loss tolerance), but still want to get realiable mobility traces for other different parameters.
 
 Background
 ------------
@@ -14,7 +14,7 @@ Background
 Building
 ------------
 
-Two possibilities
+Two possibilities:
 
 
 (1) If you want to run the whole system, rely on https://github.com/neush/ditl to build all the needs.
