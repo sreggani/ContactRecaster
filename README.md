@@ -27,7 +27,7 @@ Building
 Two possibilities:
 
 
-(1) If you want to run the whole system, rely on https://github.com/neush/ditl to build all the needs and follow the methodology for our [paper]
+(1) If you want to run the whole system, rely on https://github.com/neush/ditl to build all the needs and follow the methodology from our [paper].
     
 (2) If you already have a mobility trace (Format One) you can directly go to the Run part.
 
