@@ -44,4 +44,4 @@ To rewrite a contact trace named "CTrace" checking each (Beaconning-period) 2 se
 
         sh ContactCaster CTrace 2 0 10 2 19 > log
 
-You can then check you result in FinalContactTrace_2_0_10. In case of any wanderings about the execution steps you can chack the correspodant 'log'
+You can then check you result in FinalContactTrace_2_0_10. In case of any wanderings about the execution steps you can check the correspodant 'log'
