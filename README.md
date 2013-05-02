@@ -1,5 +1,7 @@
 ContactRecaster
 ===============
 
-rewrite Contact Traces
+Introduction
+------------
+
 https://github.com/neush/ditl
