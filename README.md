@@ -18,7 +18,7 @@ The Contact Recaster needs to know the maximum number of nodes participating in 
     <   Loss-tolerance   > is defined as the maximum number of lost beacons allowed
     <   %beacons lost     > is defined as the percentage of lost beacons from the whole mobility trace
     
-    WARNING: this parameter is not yet integrated into the code even if it will appear in the name of teh final    
+    WARNING: the last parameter is not yet integrated into the code even if it will appear in the name of the final    
     rewritten trace
 
 Building
